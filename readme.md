@@ -13,6 +13,7 @@ This is a training for Javascript. It is a cheat sheet for the most important co
     - [02-array-creation](#02-array-creation)
     - [03-control-flow](#03-control-flow)
     - [04-loops](#04-loops)
+    - [05-Prototype](#05-prototype)
   - [Algorithms](#algorithms)
     - [01-two-sum](#01-two-sum)
     - [02-reverse-linked-list](#02-reverse-linked-list)
@@ -71,6 +72,12 @@ Control flow in Javascript. Using if, else, switch, for, while, do-while.
 - [file](./basic/04-loops.js)
 
 Different types of loops in Javascript. For, for-in, for-of
+
+### 05-Prototype
+- [file](./basic/05-prototype.js)
+- [In depth](./prototypes.md)
+
+There are a few ways to work with prototypes in JavaScript:
 
 
 ## Algorithms
